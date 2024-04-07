@@ -1,0 +1,99 @@
+body{
+    background-image: url(../img_pro/fondo2.jfif);
+}
+
+.menu{
+    background-color:antiquewhite;
+}
+
+#titulo{
+    text-align: center;
+    color: black;
+}
+
+#text{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 100px;
+    color: black;
+}
+
+.centrada {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 600px;
+}
+
+.card{
+    margin-bottom: 20px;
+    padding:5px;
+    border-radius:8px;
+    
+    
+}
+
+.card-img-top {
+    width: 100%; /* Hace que todas las imágenes ocupen el 100% del ancho de su contenedor */
+    height: 200px; /* Establece una altura fija para todas las imágenes */
+    object-fit: cover; /* Ajusta la imagen dentro de su contenedor manteniendo la proporción y recortando si es necesario */
+}
+
+
+
+  #saludo{
+    border:solid 40px burlywood;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0;
+    background-color:antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:black;
+  }
+
+
+.imagen1{
+    text-align: right;
+    
+
+}
+.pie{
+padding-top: 10px;  /*padding es dentro de la caja, margin es fuera*/ 
+color:white;
+height: 300px;
+background-color: black;
+
+}
+
+.face{
+    margin-top: 20px;
+    color:antiquewhite;
+    text-align: left;
+    margin-right: 20px;
+}
+
+.imaface{
+    width: 30px;
+}
+
+.menufo{
+    background-color:black;
+    border:solid 10px gray;
+    
+}
+
+.menu2{
+    background-color:rgb(43, 42, 42);
+    color:antiquewhite;
+}
+
+.copy{
+    text-align:center ;
+    margin-top: 50px;
+}
+
+.video{
+    text-align: center;
+}
